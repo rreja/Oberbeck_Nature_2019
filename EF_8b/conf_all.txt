@@ -1,0 +1,5 @@
+bam	total_reads	label	color
+../EF_8a/bams/WT1_H3K4me3.analyzed.bam	29081425	WT1_H3K4me3	darkblue
+../EF_8a/bams/WT1_H3K27me3.analyzed.bam	30618687	WT1_H3K27me3	darkred
+../EF_8a/bams/WT1_H3K27Ac.analyzed.bam	36507704	WT1_H3K27Ac	darkgreen
+../EF_8a/bams/WT1_ATAC.analyzed.bam	26248353	WT1_ATAC	darkbrown
