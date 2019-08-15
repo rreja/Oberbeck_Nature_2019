@@ -1,0 +1,5 @@
+bam	total_reads	label	color
+bams/WT1_H3K4me3.analyzed.bam	29081425	WT1_H3K4me3	darkblue
+bams/WT2_H3K4me3.analyzed.bam	28515422	WT2_H3K4me3	darkgreen
+bams/WT1_H3K27me3.analyzed.bam	30618687	WT1_H3K27me3	darkred
+bams/WT2_H3K27me3.analyzed.bam	32850109	WT2_H3K27me3	purple
